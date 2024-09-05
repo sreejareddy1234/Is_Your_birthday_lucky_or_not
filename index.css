@@ -8,7 +8,7 @@ label{
 }
 body{
     text-align: center;
-    background-color: var(--primary-color);
+    background-color: pink;
 }
 
 #btn{
@@ -17,7 +17,7 @@ body{
     padding: 1rem 1.5rem; 
     border-radius: 20px;
     color: aqua;
-    background-color:var(--secondary-color);
+    background-color:aqua;
     cursor: pointer;
     /* max-width: 80%; */
 
