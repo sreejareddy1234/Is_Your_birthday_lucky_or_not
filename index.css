@@ -1,0 +1,31 @@
+:root{
+    primary-color:rgb(231, 149, 149);
+    secondary-color:rgb(227, 198, 184);
+}
+label{
+    display: block;
+    padding-bottom: 1rem;
+}
+body{
+    text-align: center;
+    background-color: var(--primary-color);
+}
+
+#btn{
+    display: block;
+     margin:2rem 44rem;
+    padding: 1rem 1.5rem; 
+    border-radius: 20px;
+    color: aqua;
+    background-color:var(--secondary-color);
+    cursor: pointer;
+    /* max-width: 80%; */
+
+}
+#out{
+    padding:0.5rem 0rem;
+    /* margin: 1rem 1 rem; */
+    width: 49vw;
+    border: 4px;
+    font-weight: 700;
+}
